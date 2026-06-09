@@ -13,7 +13,7 @@ About Me
 * Experienced in deploying containerized services, designing hybrid network topologies, and implementing real-time multimedia streaming solutions.
 * Interested in telecommunications services, network performance analysis, and emerging communication technologies.
 
-#Tech Stack
+Tech Stack
 
 *Languages: Python · C · C++ · JavaScript · HTML · CSS
 
@@ -27,7 +27,7 @@ About Me
 
 *IoT & Embedded Systems:** Arduino · ESP32 · Serial Communication
 
-# Featured Projects
+Featured Projects
 
 # Multimedia Distribution Infrastructure (2025–2026)
 
