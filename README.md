@@ -61,8 +61,8 @@ Built an embedded medical monitoring system capable of measuring heart rate, SpO
 
 ## Contact
 
-📧 Email: [sergiodsantac@gmail.com](mailto:sergiodsantac@gmail.com)
+Email: [sergiodsantac@gmail.com](mailto:sergiodsantac@gmail.com)
 
-📍 Armenia, Quindío, Colombia
+Armenia, Quindío, Colombia
 
-💼 LinkedIn: linkedin.com/in/sergio-david-santa-carvajal-0712a2415
+LinkedIn: [linkedin.com/in/sergio-david-santa-carvajal-0712a2415](https://www.linkedin.com/in/sergio-david-santa-carvajal-0712a2415/)
