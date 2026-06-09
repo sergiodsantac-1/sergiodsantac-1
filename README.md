@@ -1,4 +1,4 @@
-# Hi, I'm Sergio David Santa Carvajal 👋
+# Hi, I'm Sergio David Santa Carvajal 
 
 ### Junior Software Developer | Electronic Engineering Student | Software · Networking · Telecommunications · IoT
 
