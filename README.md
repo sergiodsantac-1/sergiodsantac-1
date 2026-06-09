@@ -29,25 +29,25 @@ Tech Stack
 
 Featured Projects
 
-# Multimedia Distribution Infrastructure (2025–2026)
+Multimedia Distribution Infrastructure (2025–2026)
 
 Designed and deployed a hybrid multi-vendor network topology for real-time video distribution using Cisco and Juniper environments. Implemented low-latency Nginx-RTMP/HLS streaming services and proactive monitoring with Nagios Core.
 
-*Tech:* GNS3 · Cisco IOS · Juniper Junos · Docker · GStreamer · Nagios Core
+Tech: GNS3 · Cisco IOS · Juniper Junos · Docker · GStreamer · Nagios Core
 
-# Habitación de la Calma (2026)
+Habitación de la Calma (2026)
 
 Developed a therapeutic clinical system featuring asynchronous software architecture, sensory automation, serial communication, and medical data analytics.
 
-*Tech:* Python · Arduino · Tkinter · SQLite · Matplotlib
+Tech: Python · Arduino · Tkinter · SQLite · Matplotlib
 
-#Real-Time Medical Monitor (2025)
+Real-Time Medical Monitor (2025)
 
 Built an embedded medical monitoring system capable of measuring heart rate, SpO₂, and temperature in real time, integrating wireless communication and renewable energy solutions.
 
-*Tech:* Python · C/C++ · Arduino · ESP32 · Solar Energy
+Tech: Python · C/C++ · Arduino · ESP32 · Solar Energy
 
-# Contact
+Contact
 
 Email: sergiodsantac@gmail.com
 Armenia, Quindío, Colombia
