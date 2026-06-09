@@ -1,14 +1,14 @@
-Hi, I'm Sergio David Santa Carvajal 👋
+Hi, I'm Sergio David Santa Carvajal 
 Junior Software Developer | Electronic Engineering Student | Python · C/C++ · IoT · Telecom
 
 I build real-world technological solutions — from real-time medical monitoring systems and therapeutic software to multi-provider multimedia streaming infrastructures.
 
 About Me
-* 🎓 Electronic Engineering student at Universidad del Quindío (10th semester), specializing in Telecommunications.
-* 💻 Focused on software development, hardware-software integration, and proactive network monitoring.
-* 🛠️ Technical proficiency in Python, C/C++, JavaScript, HTML, and CSS.
-* 🚀 Experience orchestrating containerized services, designing hybrid network topologies, and working with embedded systems (Arduino, ESP32).
-* 🌐 Growing expertise in multi-vendor networking environments, traffic analysis, and real-time streaming protocols.
+* Electronic Engineering student at Universidad del Quindío (10th semester), specializing in Telecommunications.
+* Focused on software development, hardware-software integration, and proactive network monitoring.
+* Technical proficiency in Python, C/C++, JavaScript, HTML, and CSS.
+* Experience orchestrating containerized services, designing hybrid network topologies, and working with embedded systems (Arduino, ESP32).
+* Growing expertise in multi-vendor networking environments, traffic analysis, and real-time streaming protocols.
 
 Tech Stack
 * Languages: Python · C · C++ · JavaScript · HTML · CSS
