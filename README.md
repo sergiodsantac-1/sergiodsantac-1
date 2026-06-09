@@ -23,7 +23,7 @@ Languages: Python · C · C++ · JavaScript · HTML · CSS
 
 *Networking & Telecommunications:** Cisco IOS · Juniper Junos · Optical Networks · Wireless Communications · Static Routing · RTMP · HLS · RTP · UDP · Traffic Analysis · Network Monitoring
 
-*Databases:** SQLite
+*Databases:* SQLite
 
 *IoT & Embedded Systems:** Arduino · ESP32 · Serial Communication
 
