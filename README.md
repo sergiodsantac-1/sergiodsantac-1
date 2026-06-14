@@ -65,4 +65,4 @@ Email: [sergiodsantac@gmail.com](mailto:sergiodsantac@gmail.com)
 
 Armenia, Quindío, Colombia
 
-LinkedIn: [www.linkedin.com/in/sergiodsanta](www.linkedin.com/in/sergiodsanta)
+LinkedIn: [linkedin.com/in/sergiodsanta](https://www.linkedin.com/in/sergiodsanta/)
