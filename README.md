@@ -65,4 +65,4 @@ Email: [sergiodsantac@gmail.com](mailto:sergiodsantac@gmail.com)
 
 Armenia, Quindío, Colombia
 
-LinkedIn: [linkedin.com/in/sergio-david-santa-carvajal-0712a2415](www.linkedin.com/in/sergiodsanta)
+LinkedIn: [www.linkedin.com/in/sergiodsanta](www.linkedin.com/in/sergiodsanta)
